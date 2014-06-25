@@ -1,4 +1,4 @@
-php-partem
+php-lightem
 ==========
 
 Lightweight PHP template engine
